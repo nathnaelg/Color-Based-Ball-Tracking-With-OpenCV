@@ -132,9 +132,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ```bash
 jupyter nbconvert --to script "trani model.ipynb"
 ```
-
----
-
-> Created with ❤️ using Python & OpenCV
-
-```
